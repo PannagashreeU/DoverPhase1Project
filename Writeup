@@ -1,0 +1,6 @@
+Dover Phase 1 Project-Write up
+
+In this project I have built a text file named teachers.data which possess data records of teachers 
+Example: teachers id, teachers name, class and their sections.
+I have built project code in main file where there is code to read all the text file's data records and code fetch this data and print it in console. 
+Second thing for update , we can write data in text file with the help of console so it gives us a message to enter data and after writing data on console it will directly store this data in the text file
